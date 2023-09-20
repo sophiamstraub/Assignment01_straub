@@ -5,4 +5,5 @@ HTML written by Sophia Straub.
 
 HTML edited (div tags added) by Kevin Hughes
 
-CSS written by Kevin Hughes
+HTML by Sophia Straub.
+CSS by Kevin Hughes.
