@@ -1,0 +1,39 @@
+/* CSS Stylesheet for Assignment 1 - written by Kevin Hughes for Sophia Straub */
+
+html {
+    font-family: Helvetica, sans-serif;
+}
+
+body {
+    background-color: #18453b;
+}
+
+/* Styling for main page content */
+.wrapper {
+    background-color: floralwhite;
+    padding: 1.5rem;
+    margin: 1.5rem;
+    max-width: 900px;
+    margin: 3rem auto;
+}
+
+/* Styling for headings */
+.headings {
+    font-size: 24px;
+    text-align: center;
+    font-family: arial black, sans-serif;
+}
+
+/* Styling for body text */
+.content {
+    font-size: 18px;
+    font-family: palatino, sans-serif;
+}
+
+/* Styling for images */
+img {
+    max-width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
